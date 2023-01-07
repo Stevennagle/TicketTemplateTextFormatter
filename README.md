@@ -1,1 +1,1 @@
-# NaglsTicketTemplateTextFormatter
+# ticketTemplateTextFormatter
